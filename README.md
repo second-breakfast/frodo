@@ -1,2 +1,2 @@
 # frodo
-A high performance Python library for Hobbits.
+A high performance, Hobbit-sized database.
